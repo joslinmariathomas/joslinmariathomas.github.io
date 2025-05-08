@@ -3,6 +3,6 @@ description: Welcome to my GitHub Pages site
 theme: jekyll-theme-minimal
 url: "https://joslinmariathomas.github.io"
 baseurl: "" # leave empty if using username.github.io
-
+theme: Architect
 # Optional
 show_downloads: false
