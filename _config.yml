@@ -1,6 +1,6 @@
 title: My Personal Site
 description: Welcome to my GitHub Pages site
-theme: jekyll-theme-minima
+theme: minima
 url: "https://joslinmariathomas.github.io"
 baseurl: "" # leave empty if using username.github.io
 # Optional
