@@ -1,0 +1,183 @@
+{
+  "name": "Joslin Maria Thomas",
+  "label": "Data Scientist",
+  "image_path": "portfolio_media/profile.jpg",
+  "contact": {
+    "email": "joslinmariathomas94@gmail.com",
+    "phone": "",
+    "location": "Melbourne, Australia"
+  },
+  "summary": "Data Scientist with experience in renewable energy and insurance industries",
+  "url" : "https://joslinmariathomas.github.io",
+  "social_links": [
+
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joslin-thomas-042865122/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/joslinmariathomas",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Turbit Systems GmbH",
+      "position": "Data Scientist",
+      "url": "https://www.turbit.com/",
+      "start_date": "Dec-2022",
+      "end_date": "Mar-2025",
+      "summary": "",
+      "highlights": [
+        "Maintained and enhanced existing deep learning-based anomaly detection models analyzing SCADA time-series data from various turbines, improving fault detection precision by 15 percent.",
+        "Optimized model performance through hyperparameter tuning, feature engineering, and model retraining using historical SCADA datasets.",
+        "Developed an end-to-end reinforcement learning (RL) optimization framework for turbine yaw control, achieving predictive power yield improvements of up to 4 percent via wake steering strategies.",
+        "Engineered custom prompt templates and retrieval strategies to extract key operational insights from large-scale turbine logs, reducing troubleshooting time for clients by 50 percent.",
+        "Delivered monthly AI research presentations to the Data Science team, enhancing technical knowledge sharing and fostering a culture of continuous learning."
+      ]
+    },
+    {
+      "company": "Allianz SE",
+      "position": "Working Student",
+      "url": "https://www.allianz.com/en.html",
+      "start_date": "Mar-2022",
+      "end_date": "Nov-2022",
+      "summary": "",
+      "highlights": [
+        "Developed internal tools using R to analyse risks of investments in alternative assets like solar energy, wind energy.",
+        "Performed quantitative analysis and research for the calibration of risk models, utilizing time-series-based methodologies in R."
+      ]
+    },
+    {
+      "company": "RSA Actuarial Services Pvt. Ltd.",
+      "position": "Data Consultant",
+      "url": "https://www.linkedin.com/company/rsaindia/?originalSubdomain=in",
+      "start_date": "Aug-2019",
+      "end_date": "Sep-2021",
+      "summary": "",
+      "highlights": [
+        "Led data analysis for Solvency II SCR (Solvency Capital Requirement) modeling, applying statistical techniques to optimize capital allocation and support regulatory compliance.",
+        "Identified and modeled key risk drivers (e.g., underwriting, market risk) using data-driven approaches to inform strategic risk mitigation efforts.",
+        "Streamlined reporting by designing interactive dashboards for capital requirement monitoring, improving operational efficiency and visibility for stakeholders.",
+        "Mentored two junior analysts, improving team productivity by 20 percent over six months."
+      ]
+    },
+    {
+      "company": "RSA Actuarial Services Pvt. Ltd.",
+      "position": "Data Analyst",
+      "url": "https://www.linkedin.com/company/rsaindia/?originalSubdomain=in",
+      "start_date": "Oct-2019",
+      "end_date": "Sep-2021",
+      "summary": "",
+      "highlights": [
+        "Conducted exploratory data analysis (EDA) on insurance claims to uncover actionable insights, enabling strategic planning for pricing and operations.",
+        "Built statistical models to detect and monitor claims inflation trends, facilitating proactive financial planning and rate adjustments.",
+        "Calibrated insurance risk parameters, enhancing the accuracy of predictive models used for strategic planning and capital management.",
+        "Designed and implemented automated data visualization tools using Python and Excel to communicate KPIs, enabling data-driven insights across business units.",
+        "Presented data-driven findings on claims trends to senior leadership and board members."
+      ]
+    },
+    {
+      "company": "RSA Actuarial Services Pvt. Ltd.",
+      "position": "Intern",
+      "url": "https://www.linkedin.com/company/rsaindia/?originalSubdomain=in",
+      "start_date": "May-2017",
+      "end_date": "Sep-2017",
+      "summary": "",
+      "highlights": [
+        "Analyzed the impact of rate changes, helping stakeholders make informed decisions to optimize profitability.",
+        "Assisted in model validation using R, ensuring robustness and reliability of actuarial models before deployment."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Brood Cell Age",
+      "summary": "Developed a computer vision model to predict the age of brood cell contents, providing insights into the health of the queen bee and the overall colony.",
+      "url": "",
+      "highlights": ["Predicted with an accuracy of 80% despite the limitations in data"],
+      "images": [
+        {
+          "img_path": "portfolio_media/yt1.png",
+          "caption": "Brood cell Age"
+        },
+        {
+          "img_path": "portfolio_media/yt2.png",
+          "caption": "Prediction vs True Age"
+        }
+      ]
+    },
+    {
+      "title": "Healthy Apple leaves",
+      "summary": "Applied image preprocessing techniques (e.g., color normalization, contrast enhancement) to improve disease visibility in leaf images.",
+      "url": "",
+      "highlights": ["Proposed and implemented a semantic segmentation approach (e.g., U-Net) to detect and isolate diseased regions at the pixel level."],
+      "images": [
+        {
+          "img_path": "portfolio_media/yt4.png",
+          "caption": "Unhealthy Leaf"
+        },
+        {
+          "img_path": "portfolio_media/yt5.png",
+          "caption": "Unhealthy Leaf Heatmap"
+        }
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "Mother Teresa Parish, Delhi",
+      "position": "Church Volunteer & Youth Treasurer",
+      "start_date": "2007",
+      "end_date": "2017",
+      "summary": "Organized and helped run community and religious events.",
+
+      "highlights": ["Taught catechism classes to children and youth.",
+    "Assisted priests during mass and special ceremonies, including setup, readings, and support duties.",
+  "Served as treasurer of the church youth community, managing budgets, tracking expenses, and coordinating fundraising efforts."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Freie University",
+      "location": " Berlin, Germany",
+      "url": "https://www.fu-berlin.de/en/index.html",
+      "degrees": [
+        "Master of Science in Data Science"
+      ],
+      "gpa": "3.4",
+      "graduation_date": "2024"
+    },
+    {
+      "institution": "St.Stephen's College",
+      "location": "University of Delhi, India",
+      "url": "https://www.ststephens.edu",
+      "degrees": [
+        "Bachelor of Science in Mathematics"
+      ],
+      "gpa": "3.4",
+      "graduation_date": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python, Predictive Modeling, Matplotlib, Plotly, Excel",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Artificial Intelligence,Reinforcement Learning, Large Language Models, Git, Jira",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "ETL Pipelines, Docker, Apache Kafka",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "languages": [],
+  "references": []
+}
