@@ -1,0 +1,8 @@
+title: My Personal Site
+description: Welcome to my GitHub Pages site
+theme: jekyll-theme-minimal
+url: "https:/joslinmariathomas.github.io"
+baseurl: "" # leave empty if using username.github.io
+
+# Optional
+show_downloads: false
